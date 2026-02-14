@@ -17,6 +17,19 @@ The script:
 - Runs **locally** and on **BrowserStack** across desktop and mobile browsers
 
 ---
+## 🖼️ Demo
+
+### 🔹 Console Output (Spanish titles, content, translations, word analysis)
+![Console Output](assets/Screenshot%20(2316).png)
+
+### 🔹 Downloaded Article Image
+![Downloaded Image](assets/Screenshot%20(2317).png)
+
+### 🔹 Opinion Section Scraping (Browser View)
+![Opinion Scraping](assets/Screenshot%20(2318).png)
+
+### 🔹 BrowserStack Cross-Browser Execution
+![BrowserStack Session](assets/Screenshot%20(2319).png)
 
 ## 🧰 Tech Stack
 
