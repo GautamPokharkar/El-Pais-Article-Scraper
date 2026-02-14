@@ -137,7 +137,7 @@ The framework supports **parallel execution across 5 configurations**:
 
 Parallel execution is handled using:
 
-``python
+```python
 ThreadPoolExecutor(max_workers=5)
 🖥️ Local Execution
 
